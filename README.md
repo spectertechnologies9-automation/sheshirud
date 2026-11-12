@@ -1,2 +1,5 @@
-# sheshirud
-Digital visiting card — Sheshirud [cb:11e77075-bb65-4866-8694-e95d361e7890]
+# Sheshirud — Digital Visiting Card
+
+Live site: https://spectertechnologies9-automation.github.io/sheshirud/
+
+Generated and published automatically by Digital Card Builder. Edit the card in the builder and republish rather than editing these files by hand.
